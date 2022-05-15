@@ -19,3 +19,6 @@
 // At the end of the document, I wrap the document with the table and ?> tag to close the PHP document
 
 // The body and html tags are needed to ensure the document is php format
+
+![image](https://user-images.githubusercontent.com/82374008/168481948-aa686840-6044-4602-b421-4f760d0b3ffc.png)
+
